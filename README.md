@@ -15,3 +15,5 @@ For a more interactive experience, the Devito based material can be run live usi
 - Under `Enter a GitHub URL or search by organisation or user` enter the following: `devitocodes/GW4SHM-Workshop`.
 - You will then see the various notebooks from today's session.
 - After opening a notebook, uncomment the `!pip install devito` located at the top of each notebook and execute it (Note: You may see an error the first time you execute the cell, in this case simply execute the cell again).
+
+Alternatively you can install Devito on your device. See instruction [here](https://www.devitoproject.org/devito/download.html).
